@@ -21,9 +21,10 @@ https://en.wikipedia.org/wiki/Sprite_(computer_graphics)
 
 ###Advantages of using sprites
 
-Speed
-Speed
-Speed
+Speed  
+Speed  
+Speed  
+
 It is much more memory and bandwidth-friendly to send them as a single image, so the number of HTTP requests is reduced.
 
 
