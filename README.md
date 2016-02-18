@@ -34,5 +34,6 @@ https://www.npmjs.com/package/sprity
 http://compass-style.org/help/tutorials/spriting/  
 http://wearekiss.com/spritepad  
 https://www.flag-sprites.com/  
-http://www.williammalone.com/articles/create-html5-canvas-javascript-sprite-animation/
+http://www.williammalone.com/articles/create-html5-canvas-javascript-sprite-animation/  
+http://codepen.io/vsync/pen/bNzodY
 
