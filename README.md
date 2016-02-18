@@ -10,6 +10,9 @@ CSS is then used to diplay the needed section by referring to its location on th
 
 ![samplesprite](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sprite-example.gif/220px-Sprite-example.gif)
 
+###W3Schools sprite example
+http://www.w3schools.com/css/css_image_sprites.asp
+
 ###History of sprites
 
 Sprites were first introduced in the mid-1970s.
