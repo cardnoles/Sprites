@@ -8,8 +8,11 @@ A sprite is a collection of image put into a single image.
 
 ![samplesprite](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sprite-example.gif/220px-Sprite-example.gif)
 
-History of sprites
+###History of sprites
 
+Sprites were first introduced in the mid-1970s.
+
+https://en.wikipedia.org/wiki/Sprite_(computer_graphics)
 
 
 
