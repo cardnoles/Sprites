@@ -26,7 +26,7 @@ It is much more memory and bandwidth-friendly to send them as a single image, so
 
 ###A few sprite links
 
-https://css-tricks.com/css-sprites/
+https://css-tricks.com/css-sprites/  
 https://www.npmjs.com/package/sprity
 http://compass-style.org/help/tutorials/spriting/
 http://wearekiss.com/spritepad
